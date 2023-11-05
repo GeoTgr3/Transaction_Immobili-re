@@ -1,0 +1,228 @@
+{
+  "markers": [
+    {
+      "price": "12",
+      "rooms": "12",
+      "surface": "12",
+      "coordinate": {
+        "longitude": -2.1509287878870964,
+        "latitude": 29.861766159102018
+      },
+      "id": 1
+    },
+    {
+      "price": "123",
+      "rooms": "123123",
+      "surface": "1231",
+      "coordinate": {
+        "longitude": 6.705522537231445e-7,
+        "latitude": 24.27273667670584
+      },
+      "id": 2
+    },
+    {
+      "price": "1234",
+      "rooms": "1234",
+      "surface": "1234",
+      "coordinate": {
+        "longitude": -6.29915177822113,
+        "latitude": 33.3578907884696
+      },
+      "id": 3
+    },
+    {
+      "price": "AAAAAA",
+      "rooms": "AAAAAAAA",
+      "surface": "AAAAAAAA",
+      "coordinate": {
+        "longitude": 8.033067807555199,
+        "latitude": 24.552656807926837
+      },
+      "id": 4
+    },
+    {
+      "price": "mali ",
+      "rooms": "aa",
+      "surface": "aa",
+      "coordinate": {
+        "longitude": 1.3607969507575035,
+        "latitude": 15.571166529206135
+      },
+      "id": 5
+    },
+    {
+      "price": "aze",
+      "rooms": "aze",
+      "surface": "aze",
+      "coordinate": {
+        "longitude": -13.805458880960941,
+        "latitude": 60.4661487424417
+      },
+      "id": 6
+    },
+    {
+      "price": "fgf",
+      "rooms": "aefae",
+      "surface": "aefaef",
+      "coordinate": {
+        "longitude": 16.417313888669014,
+        "latitude": 27.121618522788843
+      },
+      "id": 7
+    },
+    {
+      "price": "1324",
+      "rooms": "1324",
+      "surface": "1324",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -10.403479747474192,
+        "latitude": 22.863889457816406
+      },
+      "id": 8
+    },
+    {
+      "price": "123",
+      "rooms": "1234",
+      "surface": "1234",
+      "type": "sell",
+      "coordinate": {
+        "longitude": 10.40348343551159,
+        "latitude": 17.340112927730207
+      },
+      "id": 9
+    },
+    {
+      "price": "hh",
+      "rooms": "hh",
+      "surface": "hh",
+      "type": "sell",
+      "coordinate": {
+        "longitude": 19.753450490534306,
+        "latitude": 17.800649688777344
+      },
+      "id": 10
+    },
+    {
+      "price": "55",
+      "rooms": "55",
+      "surface": "55",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.09658946841957,
+        "latitude": 37.42656697761429
+      },
+      "id": 11
+    },
+    {
+      "price": "55",
+      "rooms": "55",
+      "surface": "55",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -122.08213638514279,
+        "latitude": 37.41875122176759
+      },
+      "id": 12
+    },
+    {
+      "price": "5",
+      "rooms": "5",
+      "surface": "5",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.08492252975701,
+        "latitude": 37.423102136678146
+      },
+      "id": 13
+    },
+    {
+      "price": "55",
+      "rooms": "555",
+      "surface": "5",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -122.08768185228111,
+        "latitude": 37.42745466253778
+      },
+      "id": 14
+    },
+    {
+      "price": "0000",
+      "rooms": "0000",
+      "surface": "00000",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.08177730441093,
+        "latitude": 37.41842156442383
+      },
+      "id": 15
+    },
+    {
+      "price": "1212",
+      "rooms": "123",
+      "surface": "1232",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -7.40226186811924,
+        "latitude": 33.4850224902515
+      },
+      "id": 16
+    },
+    {
+      "price": "ayoub",
+      "rooms": "ayoub",
+      "surface": "ayoub",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.08583012223245,
+        "latitude": 37.4216791969771
+      },
+      "id": 17
+    },
+    {
+      "price": "100000",
+      "rooms": "5",
+      "surface": "115",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.08708003163338,
+        "latitude": 37.420715555352345
+      },
+      "id": 18
+    },
+    {
+      "price": "55",
+      "rooms": "55",
+      "surface": "55",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -122.08795040845871,
+        "latitude": 37.418759742778256
+      },
+      "id": 19
+    },
+    {
+      "price": "8888",
+      "rooms": "8888",
+      "surface": "8888",
+      "type": "sell",
+      "coordinate": {
+        "longitude": -122.08882246166468,
+        "latitude": 37.42665457506491
+      },
+      "id": 20
+    },
+    {
+      "price": "100000000",
+      "rooms": "10",
+      "surface": "120",
+      "type": "rent",
+      "coordinate": {
+        "longitude": -122.08534698933363,
+        "latitude": 37.42977500097726
+      },
+      "id": 21
+    }
+  ]
+}
