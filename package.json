@@ -1,24 +1,41 @@
 {
-  "name": "googlemaps",
-  "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "eject": "expo eject"
   },
   "dependencies": {
-    "@react-navigation/native": "^6.1.9",
-    "@react-navigation/stack": "^6.3.20",
-    "expo": "~49.0.15",
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-picker/picker": "^2.4.10",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "expo": "^49.0.0",
+    "expo-asset": "~8.10.1",
+    "expo-font": "~11.4.0",
+    "expo-image-manipulator": "~11.3.0",
+    "expo-image-picker": "~14.3.2",
     "expo-location": "~16.1.0",
     "expo-status-bar": "~1.6.0",
+    "firebase": "^10.6.0",
+    "lowdb": "^6.1.1",
+    "metro-core": "^0.80.1",
     "react": "18.2.0",
-    "react-native": "0.72.6",
-    "react-native-geolocation-service": "^5.3.1",
-    "react-native-maps": "1.7.1",
-    "react-navigation": "^5.0.0"
+    "react-dom": "18.2.0",
+    "react-native": "^0.72.6",
+    "react-native-image-crop-picker": "^0.40.2",
+    "react-native-image-picker": "^7.0.3",
+    "react-native-map-clustering": "^3.4.2",
+    "react-native-maps": "^1.8.0",
+    "react-native-rapi-ui": "^0.2.1",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-web": "~0.19.6",
+    "supercluster": "^8.0.1",
+    "use-supercluster": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
